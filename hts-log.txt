@@ -1,0 +1,37 @@
+HTTrack3.49-2 launched on Tue, 22 Mar 2022 22:53:18 at https://themes.pixelstrap.com/voxo/front-end/vegetables-demo.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://themes.pixelstrap.com/voxo/front-end/vegetables-demo.html -O "/home/ik/websites/frontend-vegetables" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:57:59	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://themes.pixelstrap.com/voxo/front-end/vegetables-demo.html)
+23:05:23	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/voxo/front-end/www.facebook.com (from https://themes.pixelstrap.com/voxo/front-end/log-in.html)
+23:05:23	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/voxo/front-end/www.gmail.com (from https://themes.pixelstrap.com/voxo/front-end/log-in.html)
+23:05:23	Error: 	"Not Found" (404) at link https://fonts.googleapis.com/ (from https://themes.pixelstrap.com/voxo/front-end/index.html)
+23:05:23	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/voxo/front-end/demo3.html (from https://themes.pixelstrap.com/voxo/front-end/flower-demo.html)
+23:05:23	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/voxo/front-end/product-left-sidebar (from https://themes.pixelstrap.com/voxo/front-end/shop-with-category.html)
+23:05:23	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/voxo/front-end/www.twitter.com (from https://themes.pixelstrap.com/voxo/front-end/about-us.html)
+23:05:23	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/voxo/front-end/www.google.com (from https://themes.pixelstrap.com/voxo/front-end/about-us.html)
+23:05:31	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themes.pixelstrap.com/voxo/front-end/assets/css/vendors/bootstrap.css (from https://themes.pixelstrap.com/voxo/front-end/vegetables-demo.html)
+23:06:58	Warning: 	HTML file (221243 bytes) retransferred due to lack of cache: https://themes.pixelstrap.com/voxo/front-end/shop-left-sidebar.html
+23:07:07	Warning: 	HTML file (103522 bytes) retransferred due to lack of cache: https://themes.pixelstrap.com/voxo/front-end/wishlist.html
+23:07:10	Warning: 	HTML file (108142 bytes) retransferred due to lack of cache: https://themes.pixelstrap.com/voxo/front-end/cart.html
+23:07:15	Warning: 	HTML file (207972 bytes) retransferred due to lack of cache: https://themes.pixelstrap.com/voxo/front-end/flower-demo.html
+23:07:26	Warning: 	HTML file (435227 bytes) retransferred due to lack of cache: https://themes.pixelstrap.com/voxo/front-end/furniture-demo.html
+23:07:39	Warning: 	HTML file (346522 bytes) retransferred due to lack of cache: https://themes.pixelstrap.com/voxo/front-end/electronic-demo.html
+23:07:45	Warning: 	HTML file (212622 bytes) retransferred due to lack of cache: https://themes.pixelstrap.com/voxo/front-end/shoes-demo.html
+23:07:52	Warning: 	HTML file (210429 bytes) retransferred due to lack of cache: https://themes.pixelstrap.com/voxo/front-end/shop-canvas-filter.html
+23:08:17	Warning: 	Retry after error -4 (Incorrect length (31747 Bytes, 407366 expected)) at link https://themes.pixelstrap.com/voxo/front-end/assets/images/vegetable/update/1.jpg (from https://themes.pixelstrap.com/voxo/front-end/vegetables-demo.html)
+23:08:41	Warning: 	HTML file (315 bytes) retransferred due to lack of cache: https://themes.pixelstrap.com/voxo/front-end/www.gmail.com
+23:08:43	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/voxo/front-end/www.gmail.com (from https://themes.pixelstrap.com/voxo/front-end/log-in.html)
+23:09:27	Warning: 	Retry after error -4 (Incorrect length (71774 Bytes, 87545 expected)) at link https://themes.pixelstrap.com/voxo/front-end/assets/images/flower/offer/big.jpg (from https://themes.pixelstrap.com/voxo/front-end/flower-demo.html)
+23:09:28	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://themes.pixelstrap.com/voxo/front-end/assets/images/flower/offer/1.jpg (from https://themes.pixelstrap.com/voxo/front-end/flower-demo.html)
+23:10:18	Error: 	"" (404) at link https://themes.pixelstrap.com/voxo/front-end/product-left-sidebar (from https://themes.pixelstrap.com/voxo/front-end/shop-with-category.html)
+23:10:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+23:10:53	Error: 	"" (404) at link https://themes.pixelstrap.com/voxo/front-end/www.twitter.com (from https://themes.pixelstrap.com/voxo/front-end/about-us.html)
+23:11:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themes.pixelstrap.com/voxo/front-end/assets/images/vegetable/effect.png (from https://themes.pixelstrap.com/voxo/front-end/assets/css/demo6.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 18 minutes 0 seconds : 487 links scanned, 480 files written (62386599 bytes overall) [53040976 bytes received at 49112 bytes/sec], 10485995 bytes transferred using HTTP compression in 66 files, ratio 6%, 1.7 requests per connection
+(11 errors, 15 warnings, 0 messages)
